@@ -1,0 +1,17 @@
+{
+  "name": "sliding-carousel",
+  "version": "1.0.0",
+  "description": "A simple animated image carousel that can be used on sites using the command function carouselSlider",
+  "main": "carousel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "carousel"
+  ],
+  "author": "Liam Pugh",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.9.1"
+  }
+}
