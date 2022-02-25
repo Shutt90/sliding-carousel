@@ -7,8 +7,8 @@ outer div,
 arrow left,
 arrow right,
 carousel div,
-images * however many
-close carousel div
-close outer div
+images * however many,
+close carousel div,
+close outer div,
 
 If you have any issues please don't hesitate to let me know in github issues or on my email address hello@liampugh.co.uk
