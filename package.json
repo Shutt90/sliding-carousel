@@ -1,6 +1,6 @@
 {
   "name": "sliding-carousel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple animated image carousel that can be used on sites using the command function carouselSlider",
   "main": "carousel.js",
   "scripts": {
