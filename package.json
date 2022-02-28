@@ -1,6 +1,6 @@
 {
   "name": "sliding-carousel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple animated image carousel that can be used on sites using the command function carouselSlider",
   "main": "carousel.js",
   "scripts": {
@@ -13,5 +13,13 @@
   "license": "ISC",
   "dependencies": {
     "gsap": "^3.9.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shutt90/sliding-carousel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shutt90/sliding-carousel/issues"
+  },
+  "homepage": "https://github.com/Shutt90/sliding-carousel#readme"
 }
