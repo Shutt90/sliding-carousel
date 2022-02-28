@@ -37,9 +37,13 @@ const carouselSlider = function(container, leftArrow, rightArrow) {
             img.style.display = 'none'
         })
         imgs[index].style.display = 'block'
+        
+
+        console.log(leftArrow)
 
         const arrowLeft = document.querySelector(leftArrow)
         const arrowRight = document.querySelector(rightArrow)
+
 
         arrowLeft.addEventListener('click', function(e) {
             let animationLeftOut = tweenOut(imgs[index])
@@ -79,6 +83,3 @@ const carouselSlider = function(container, leftArrow, rightArrow) {
 }
 
 export default carouselSlider
-
-
-carouselSlider('.container', '.arrow-left', '.arrow-right')
